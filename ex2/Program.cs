@@ -32,7 +32,7 @@ int GetRow(int[,] array)
             row = i;
         }
     }
-    return row;
+    return row
 }
 
 
